@@ -112,13 +112,13 @@ const Swiperr = () => {
         <div className="parttwotesti">Harry Khan</div>
         <div className="partthreetesti">
           <div className="starstesti">
-            <img src="./public/img/start.svg"  alt="" />
+            <img src="./img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="./public/img/start.svg"  alt="" />
+            <img src="./img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="./public/img/start.svg"  alt="" />
+            <img src="./img/start.svg"  alt="" />
           </div>
           
         </div>
