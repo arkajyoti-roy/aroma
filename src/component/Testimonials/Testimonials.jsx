@@ -68,16 +68,16 @@ const Swiperr = () => {
         <div className="parttwotesti">Jenny Roy</div>
         <div className="partthreetesti">
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
         </div>
         <div className="partfourtesti">
@@ -112,13 +112,13 @@ const Swiperr = () => {
         <div className="parttwotesti">Harry Khan</div>
         <div className="partthreetesti">
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           
         </div>
@@ -152,16 +152,16 @@ const Swiperr = () => {
         <div className="parttwotesti">Tailor Sheeran</div>
         <div className="partthreetesti">
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           
         </div>
@@ -195,19 +195,19 @@ const Swiperr = () => {
         <div className="parttwotesti">Lisa Sharma</div>
         <div className="partthreetesti">
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           <div className="starstesti">
-            <img src="/public/img/start.svg"  alt="" />
+            <img src="./public/img/start.svg"  alt="" />
           </div>
           
         </div>

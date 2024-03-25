@@ -21,7 +21,7 @@ const Navbar = () => {
         <Hamburder togle={togglefunction} />
         
         <div className="partonenav">
-        <img src="/img/jj.svg" alt="" />
+        <img src="./img/jj.svg" alt="" />
         </div>
         <div className="parttwonav">
         <h3 className="item">Home</h3>

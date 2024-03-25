@@ -7,7 +7,7 @@ const Services = () => {
     <>
     <div className='Services'>
         <div className="serimg">
-        <img src="/img/sertwo.svg" alt="" />
+        <img src="./img/sertwo.svg" alt="" />
         </div>
         <div className="sertext">
         Take A Way
