@@ -33,7 +33,7 @@ const Footer = () => {
         </div>
         <div className="logofooterfour">
             <h1 className='xx'>Address</h1>
-            <h5 className='onee'>Wall Street,New York</h5>
+            <h5 className='onee'>Ram Nagar 7 Opposite, Agartala, Tripura</h5>
             <h5 className='onee'>+91 6909094988</h5>
             <h5 className='email'>
                 
